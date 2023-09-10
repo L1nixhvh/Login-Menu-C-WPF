@@ -1,0 +1,17 @@
+C:\Users\L1nix\source\repos\Autorizate\Autorizate\bin\Debug\Autorizate.exe.config
+C:\Users\L1nix\source\repos\Autorizate\Autorizate\bin\Debug\Autorizate.exe
+C:\Users\L1nix\source\repos\Autorizate\Autorizate\bin\Debug\Autorizate.pdb
+C:\Users\L1nix\source\repos\Autorizate\Autorizate\obj\Debug\Autorizate.csproj.AssemblyReference.cache
+C:\Users\L1nix\source\repos\Autorizate\Autorizate\obj\Debug\Autorizate.csproj.SuggestedBindingRedirects.cache
+C:\Users\L1nix\source\repos\Autorizate\Autorizate\obj\Debug\MainWindow.g.cs
+C:\Users\L1nix\source\repos\Autorizate\Autorizate\obj\Debug\App.g.cs
+C:\Users\L1nix\source\repos\Autorizate\Autorizate\obj\Debug\Autorizate_MarkupCompile.cache
+C:\Users\L1nix\source\repos\Autorizate\Autorizate\obj\Debug\MainWindow.baml
+C:\Users\L1nix\source\repos\Autorizate\Autorizate\obj\Debug\Autorizate.g.resources
+C:\Users\L1nix\source\repos\Autorizate\Autorizate\obj\Debug\Autorizate.Properties.Resources.resources
+C:\Users\L1nix\source\repos\Autorizate\Autorizate\obj\Debug\Autorizate.csproj.GenerateResource.cache
+C:\Users\L1nix\source\repos\Autorizate\Autorizate\obj\Debug\Autorizate.csproj.CoreCompileInputs.cache
+C:\Users\L1nix\source\repos\Autorizate\Autorizate\obj\Debug\Autorizate.exe
+C:\Users\L1nix\source\repos\Autorizate\Autorizate\obj\Debug\Autorizate.pdb
+C:\Users\L1nix\source\repos\Autorizate\Autorizate\obj\Debug\Autorizate_MarkupCompile.lref
+C:\Users\L1nix\source\repos\Autorizate\Autorizate\obj\Debug\App.baml
