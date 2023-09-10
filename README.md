@@ -1,0 +1,2 @@
+# LoginMenu
+minimalistic entry menu
